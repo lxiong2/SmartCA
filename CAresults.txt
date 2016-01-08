@@ -1,0 +1,249 @@
+Present Time
+Date: 23-Oct-2013
+9:05
+
+Line Status
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+Closed
+
+Generator Information
+Bus#   Size [MW]
+1 101.8534
+2 170.0779
+3 0.0000
+4 95.0325
+5 0.0000
+6 200.3273
+7 200.6497
+
+Load Information
+Bus#   Size [MW]
+1 0.0000
+2 -40.0000
+3 -110.0000
+4 -80.0000
+5 -130.0000
+6 -200.0000
+7 -200.0000
+
+Number of Future Timesteps: 5
+
+
+Future Time
+Scenario 1
+Date: 23-Oct-2013
+9:10
+
+Generator Change
+Bus# Size[MW]
+1 6.3566
+2 9.9821
+3 0.0000
+4 14.1775
+5 0.0000
+6 0.0000
+7 0.0000
+
+Load Change
+Bus# Size[MW]
+1 0.0000
+2 0.0000
+3 20.0000
+4 0.0000
+5 10.0000
+6 0.0000
+7 0.0000
+
+N-1 Contingency Analysis: Flagged Violations
+LineOut LineAffected PerViolation
+1 2 1 1 3 1 167.1543
+3 4 1 1 3 1 98.4239
+2 6 1 2 5 1 115.5125
+4 5 1 2 5 1 95.2010
+7 5 1 2 5 1 115.5125
+
+
+Future Time
+Scenario 2
+Date: 23-Oct-2013
+9:15
+
+Generator Change
+Bus# Size[MW]
+1 10.9666
+2 17.7421
+3 0.0000
+4 23.0375
+5 0.0000
+6 0.0000
+7 0.0000
+
+Load Change
+Bus# Size[MW]
+1 0.0000
+2 0.0000
+3 30.0000
+4 0.0000
+5 20.0000
+6 0.0000
+7 0.0000
+
+N-1 Contingency Analysis: Flagged Violations
+LineOut LineAffected PerViolation
+1 2 1 1 3 1 174.2190
+2 3 1 1 3 1 96.6159
+3 4 1 1 3 1 105.4082
+3 4 1 2 3 1 96.0038
+1 3 1 2 5 1 96.2336
+2 3 1 2 5 1 96.7549
+2 4 1 2 5 1 96.7982
+2 6 1 2 5 1 122.9541
+4 5 1 2 5 1 102.2115
+7 5 1 2 5 1 122.9541
+6 7 1 2 5 1 98.7314
+6 7 2 2 5 1 98.7314
+2 5 1 4 5 1 96.4590
+
+
+Future Time
+Scenario 3
+Date: 23-Oct-2013
+9:20
+
+Generator Change
+Bus# Size[MW]
+1 15.2466
+2 25.1421
+3 0.0000
+4 31.6475
+5 0.0000
+6 0.0000
+7 0.0000
+
+Load Change
+Bus# Size[MW]
+1 0.0000
+2 0.0000
+3 40.0000
+4 0.0000
+5 30.0000
+6 0.0000
+7 0.0000
+
+N-1 Contingency Analysis: Flagged Violations
+LineOut LineAffected PerViolation
+1 2 1 1 3 1 180.7800
+2 3 1 1 3 1 100.1224
+3 4 1 1 3 1 112.0033
+3 4 1 2 3 1 103.1322
+1 3 1 2 5 1 101.7189
+2 3 1 2 5 1 102.2549
+2 4 1 2 5 1 102.1356
+2 6 1 2 5 1 130.1110
+4 5 1 2 5 1 108.9884
+7 5 1 2 5 1 130.1110
+6 7 1 2 5 1 104.4904
+6 7 2 2 5 1 104.4904
+2 5 1 4 5 1 103.9402
+
+
+Future Time
+Scenario 4
+Date: 23-Oct-2013
+9:25
+
+Generator Change
+Bus# Size[MW]
+1 20.0266
+2 32.9321
+3 0.0000
+4 40.7275
+5 0.0000
+6 0.0000
+7 0.0000
+
+Load Change
+Bus# Size[MW]
+1 0.0000
+2 0.0000
+3 50.0000
+4 0.0000
+5 40.0000
+6 0.0000
+7 0.0000
+
+N-1 Contingency Analysis: Flagged Violations
+LineOut LineAffected PerViolation
+1 2 1 1 3 1 188.1094
+2 3 1 1 3 1 103.9889
+3 4 1 1 3 1 119.1407
+3 4 1 2 3 1 110.7906
+1 3 1 2 5 1 107.5522
+2 3 1 2 5 1 108.1017
+2 4 1 2 5 1 107.8111
+2 6 1 2 5 1 137.7086
+4 5 1 2 5 1 116.1599
+7 5 1 2 5 1 137.7086
+6 7 1 2 5 1 110.6041
+6 7 2 2 5 1 110.6041
+1 3 1 3 4 1 96.3198
+2 3 1 3 4 1 98.5859
+2 5 1 4 5 1 111.8398
+
+
+Future Time
+Scenario 5
+Date: 23-Oct-2013
+9:30
+
+Generator Change
+Bus# Size[MW]
+1 24.5166
+2 40.6121
+3 0.0000
+4 49.5875
+5 0.0000
+6 0.0000
+7 0.0000
+
+Load Change
+Bus# Size[MW]
+1 0.0000
+2 0.0000
+3 60.0000
+4 0.0000
+5 50.0000
+6 0.0000
+7 0.0000
+
+N-1 Contingency Analysis: Flagged Violations
+LineOut LineAffected PerViolation
+1 2 1 1 3 1 194.9957
+2 3 1 1 3 1 107.6813
+2 4 1 1 3 1 97.9617
+2 5 1 1 3 1 98.5076
+3 4 1 1 3 1 126.0237
+3 4 1 2 3 1 118.2284
+1 2 1 2 5 1 96.4602
+1 3 1 2 5 1 113.2324
+2 3 1 2 5 1 113.7978
+2 4 1 2 5 1 113.3400
+2 6 1 2 5 1 145.1142
+4 5 1 2 5 1 123.1588
+7 5 1 2 5 1 145.1143
+6 7 1 2 5 1 116.5636
+6 7 2 2 5 1 116.5636
+1 3 1 3 4 1 104.2700
+2 3 1 3 4 1 106.6055
+2 5 1 4 5 1 119.5714
+
+
